@@ -2,7 +2,7 @@
 public class ArraySum {
 
 	public static void main(String[] args) {
-		 int[] numbers={1,2,4,5,7,8};
+		 int[] numbers={1,2,3,4,5};
 		 System.out.println(Sum(numbers));
 	}
 	
