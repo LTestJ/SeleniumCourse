@@ -1,0 +1,20 @@
+
+public class Average {
+
+	public static void main(String[] args){
+		
+		double[] numbers={6,1,2,4,5,6,7,1};
+		 System.out.println("Sum is "+  Sum(numbers));
+		}
+	
+	static double Sum(double[] numbers){		
+		double sum=0;
+		for(int i=0; i<numbers.length; i++) {
+			sum=sum+numbers[i];	
+		}
+		
+		double average = sum/numbers.length;
+		System.out.println("average is " + average);
+		return sum;
+		}
+}
