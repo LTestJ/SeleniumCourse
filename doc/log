@@ -11,3 +11,11 @@
 
 
  
+6/15/18
+
+- formatted and corrected pgms; LargestSmallest and Average
+- learned to do correct formatting, used shtf+tab
+- added log for 6/11 and pushed it--learned to do it
+- used git log -3
+- used git add doc/log
+- functionName and variableName both should start with lc or camelCase
