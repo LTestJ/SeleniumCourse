@@ -8,6 +8,19 @@ All modern companies use some kind of online meeting/screen sharing technology. 
 
 You should be able to quick connect with someone else and share your screen. 
 
+## Virtual machhines and Vagrant
+
+Virtual machines allow us to run an OS inside a Host OS. 
+For example we can run an instance of Ubuntu (Linux) inside of Windows.
+We will use [VirtualBox](https://www.virtualbox.org/) to run virtual machines. 
+
+[Vagrant](https://www.vagrantup.com/) is a commandline tool we use to manage VirtualBoxes.
+ 
+## Linux Console
+
+Basic knowledge of Unix shell programming is essential. We will follow the free course 
+from [Udacity](https://www.udacity.com/course/linux-command-line-basics--ud595) to get upto speed with Unix/Linux Shell.
+
 ## Git, Github
 
 All software written is kept in some version control repository. Git is the preferred choice for that. Github is where most of the popular open source projects are hosted.
@@ -38,7 +51,6 @@ We will use [Selenium Course from ABSoft](http://www.absofttrainings.com/seleniu
   ** Test Java code
 * Being able to read and understand simple Java code  
      
-    
 ## Using Selenium for testing
 
 We will use [Selenium Course from ABSoft](http://www.absofttrainings.com/selenium-tutorial/#ChaptersMainTable)
