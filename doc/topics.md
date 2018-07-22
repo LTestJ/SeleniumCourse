@@ -21,6 +21,8 @@ We will use [VirtualBox](https://www.virtualbox.org/) to run virtual machines.
 Basic knowledge of Unix shell programming is essential. We will follow the free course 
 from [Udacity](https://www.udacity.com/course/linux-command-line-basics--ud595) to get upto speed with Unix/Linux Shell.
 
+After that to gain more experience work through [Wargames](https://overthewire.org/wargames)
+
 ## Git, Github
 
 All software written is kept in some version control repository. Git is the preferred choice for that. Github is where most of the popular open source projects are hosted.
