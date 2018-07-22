@@ -33,7 +33,7 @@ Learning Git and Github is an ongoing process and as you work with it more and m
 
   * Install git on local machine
   * Be able to use git from command line
-  * Be able to use git as shown here [A Beginner's Git and GitHub Tutorial | Udacity]
+  * Be able to use git as shown here [A Beginner's Git and GitHub Tutorial](https://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
   * Be able to clone a project from github
   * Be able to send pull requests to Github
   * Be able to merge and rebase code
